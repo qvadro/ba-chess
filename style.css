@@ -1,0 +1,548 @@
+body {
+	background-color: purple;
+	height: 100vh;
+	position: relative;
+	font-size: 0px;
+}
+.body {
+	width: 560px;
+	height: 560px;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	position: absolute;
+	background-color: grey;
+	font-size: 0px;
+}
+.square {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 0px;
+	background-color: white;
+}
+.square2 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 70px;
+	background-color: black;
+}
+.square3 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 140px;
+	background-color: white;
+}
+.square4 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 210px;
+	background-color: black;
+}
+.square5 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 280px;
+	background-color: white;
+}
+.square6 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 350px;
+	background-color: black;
+}
+.square7 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 420px;
+	background-color: white;
+}
+.square8 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 0px;
+	left: 490px;
+	background-color: black;
+}
+.square9 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 0px;
+	background-color: black;
+}
+.square10 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 70px;
+	background-color: white;
+}
+.square11 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 140px;
+	background-color: black;
+}
+.square12 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 210px;
+	background-color: white;
+}
+.square13 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 280px;
+	background-color: black;
+}
+.square14 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 350px;
+	background-color: white;
+}
+.square15 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 420px;
+	background-color: black;
+}
+.square16 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 70px;
+	left: 490px;
+	background-color: white;
+}
+.square17 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 0px;
+	background-color: white;
+}
+.square18 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 70px;
+	background-color: black;
+}
+.square19 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 140px;
+	background-color: white;
+}
+.square20 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 210px;
+	background-color: black;
+}
+.square21 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 280px;
+	background-color: white;
+}
+.square22 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 350px;
+	background-color: black;
+}
+.square23 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 420px;
+	background-color: white;
+}
+.square24 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 140px;
+	left: 490px;
+	background-color: black;
+}
+.square25 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 490px;
+	background-color: black;
+}
+.square26 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 0px;
+	background-color: black;
+}
+.square27 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 70px;
+	background-color: white;
+}
+.square28 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 140px;
+	background-color: black;
+}
+.square29 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 210px;
+	background-color: white;
+}
+.square30 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 280px;
+	background-color: black;
+}
+.square31 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 350px;
+	background-color: white;
+}
+.square32 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 420px;
+	background-color: black;
+}
+.square33 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 210px;
+	left: 490px;
+	background-color: white;
+}
+.square34 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 0px;
+	background-color: white;
+}
+.square35 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 70px;
+	background-color: black;
+}
+.square36 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 140px;
+	background-color: white;
+}
+.square37 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 210px;
+	background-color: black;
+}
+.square38 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 280px;
+	background-color: white;
+}
+.square39 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 350px;
+	background-color: black;
+}
+.square40 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 420px;
+	background-color: white;
+}
+.square41 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 280px;
+	left: 490px;
+	background-color: black;
+}
+.square42 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 0px;
+	background-color: black;
+}
+.square43 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 0px;
+	background-color: black;
+}
+.square44 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 70px;
+	background-color: white;
+}
+.square45 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 140px;
+	background-color: black;
+}
+.square46 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 210px;
+	background-color: white;
+}
+.square47 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 280px;
+	background-color: black;
+}
+.square48 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 350px;
+	background-color: white;
+}
+.square49 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 420px;
+	background-color: black;
+}
+.square50 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 350px;
+	left: 490px;
+	background-color: white;
+}
+.square51 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 0px;
+	background-color: white;
+}
+.square52 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 70px;
+	background-color: black;
+}
+.square53 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 140px;
+	background-color: white;
+}
+.square54 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 210px;
+	background-color: black;
+}
+.square55 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 280px;
+	background-color: white;
+}
+.square56 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 350px;
+	background-color: black;
+}
+.square57 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 420px;
+	background-color: white;
+}
+.square58 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 420px;
+	left: 490px;
+	background-color: black;
+}
+.square59 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 0px;
+	background-color: black;
+}
+.square60 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 70px;
+	background-color: white;
+}
+.square61 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 140px;
+	background-color: black;
+}
+.square62 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 210px;
+	background-color: white;
+}
+.square63 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 280px;
+	background-color: black;
+}
+.square64 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 350px;
+	background-color: white;
+}
+.square65 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 420px;
+	background-color: black;
+}
+.square66 {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	top: 490px;
+	left: 490px;
+	background-color: white;
+}
+
+
